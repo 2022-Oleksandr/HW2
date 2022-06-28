@@ -1,0 +1,5 @@
+Step1: Log in to https://qauto2.forstudy.space with existing user(nifrat@gmail.com  Natatest1!)
+Expected result: Successful login
+Step 2:Select Brand "Porshe", Model "911" and press "Add" button
+Actual result:When choosing Brand "Porshe", Model "911", is added Brand "Ford", Model "Focus"
+Expected Result:When choosing Brand "Porshe", Model "911", Porshe 911 is added to garage page
